@@ -74,4 +74,4 @@ Sistem, kameradan gelen görüntüyü işleyerek eklem noktalarını belirler. A
 
 └── pubspec.yaml
 
-**Geliştiren:** Serkan Sevmez, Taner Binay
+
