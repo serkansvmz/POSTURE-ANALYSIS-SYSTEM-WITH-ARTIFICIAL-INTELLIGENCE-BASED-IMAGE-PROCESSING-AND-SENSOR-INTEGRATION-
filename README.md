@@ -74,4 +74,17 @@ Sistem, kameradan gelen görüntüyü işleyerek eklem noktalarını belirler. A
 
 └── pubspec.yaml
 
+# Uygulama Görselleri
+<img width="700" height="648" alt="image" src="https://github.com/user-attachments/assets/2a891de7-2083-43d6-8a99-dc7ac8592953" />
+<img width="674" height="610" alt="image" src="https://github.com/user-attachments/assets/5faaec6e-aecc-4d03-97bb-679a9124eade" />
+<img width="839" height="693" alt="image" src="https://github.com/user-attachments/assets/bb672afe-e255-4e6a-831d-20f88bd6556d" />
+<img width="837" height="768" alt="image" src="https://github.com/user-attachments/assets/dcb011ae-fb63-4b7d-b088-3d0cbec5048b" />
+<img width="988" height="779" alt="image" src="https://github.com/user-attachments/assets/118d5341-16ff-4a32-aa00-0adb029e3b6f" />
+
+
+
+
+
+
+
 
